@@ -1,4 +1,4 @@
 while true do
-    print("get a life")
+    print("??? Attempted to grab your PC but roblox defenders protected you.")
 end
-game.Players.LocalPlayer:Kick("get a life")
+game.Players.LocalPlayer:Kick("??? Attempted to grab your PC but roblox defenders protected you.")
