@@ -1,4 +1,1 @@
-while true do
-    print("get a life")
-end
-game.Players.LocalPlayer:Kick("get a life")
+s
